@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Custom Green Palette -->
+    <color name='green_800'>#FF12372A</color>
+    <color name='green_600'>#FF436850</color>
+    <color name='green_400'>#FFADBC9F</color>
+    <color name='beige'>#FFFBFADA</color>
+
+    <color name="semi_transparent">#66000000</color>
+    <color name="semi_transparent_white">#77FFFFFF</color>
+
+    <color name="video_thumbnail_background_color">#E1E1E1</color>
+    <color name="colorPrimary">@color/green_800</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#E44500</color>
+
+</resources>

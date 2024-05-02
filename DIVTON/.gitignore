@@ -1,0 +1,17 @@
+*.pt
+*.pdf
+*.pth
+*.onnx
+*.ort
+*.pt
+*.jpg
+*.png
+*.zip
+*.npy
+*.json
+*.pyc
+__pycache__/
+runs/
+onnxruntime/
+opt.txt
+*.DS_Store

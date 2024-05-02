@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MIRROR</string>
+
+    <string name="select_an_avatar">Select an Avatar</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">sign up</string>
+    <string name="profile_name_1">Ali Connors</string>
+    <string name="profile_image">Profile image</string>
+    <string name="user_points">10,000 pts</string>
+    <string name="user_rank">#1</string>
+    <string name="rank">Rank</string>
+    <string name="rank_1">#1</string>
+    <string name="wins">Wins</string>
+    <string name="wins_amount">42</string>
+    <string name="losses">Losses</string>
+    <string name="losses_amount">03</string>
+    <string name="about">About</string>
+    <string name="welcome">Welcome!</string>
+    <string name="about_description">This sample showcases navigation using a Bottom Navigation
+    View. The state and back stack of the three different screens are persisted.
+    </string>
+    <string name="done">Done</string>
+    <string name="title_play_result">Fitting Result</string>
+    <string name="title_results">Fitting room</string>
+    <string name="title_videos">Videos</string>
+    <string name="title_play_video">Videos</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_detail">Profile</string>
+
+    <string name="cd_results">Fitting room</string>
+    <string name="cd_camera">Camera</string>
+    <string name="cd_videos">Videos</string>
+
+    <string name="menu_show_link">Show link</string>
+    <string name="menu_download">Download</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_set_default">Set as default</string>
+
+    <string name="no_videos">No videos to show</string>
+    <string name="no_results">Haven\'t tried anything yet!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

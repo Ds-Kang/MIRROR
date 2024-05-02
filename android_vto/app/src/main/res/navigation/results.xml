@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/results"
+    app:startDestination="@+id/results_nav">
+
+    <fragment
+        android:id="@+id/results_nav"
+        android:name="ai.onnxruntime.example.virtualtryon.resultscreen.resultlist.ResultListFragment"
+        android:label="@string/title_results"
+        tools:layout="@layout/fragment_results">
+        <action
+            android:id="@+id/action_results_to_play"
+            app:destination="@id/playResult"/>
+    </fragment>
+    <fragment
+        android:id="@+id/playResult"
+        android:name="ai.onnxruntime.example.virtualtryon.resultscreen.PlayResultFragment"
+        android:label="@string/title_play_result"
+        tools:layout="@layout/fragment_play_result"/>
+</navigation>

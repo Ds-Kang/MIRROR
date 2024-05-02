@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="video_thumbnail_width">161dp</dimen>
+    <dimen name="video_thumbnail_height">286dp</dimen>
+    <dimen name="video_thumbnail_margin">15dp</dimen>
+    <dimen name="video_thumbnail_corner_radius">8dp</dimen>
+    <dimen name="video_thumbnail_play_circle_size">48dp</dimen>
+    <dimen name="default_mark_height">24dp</dimen>
+    <dimen name="default_mark_font_size">12sp</dimen>
+    <dimen name="no_video_text_size">16sp</dimen>
+
+    <dimen name="record_button_size">80dp</dimen>
+    <dimen name="record_button_margin">24dp</dimen>
+    <dimen name="switch_camera_button_size">40dp</dimen>
+    <dimen name="switch_camera_button_margin">24dp</dimen>
+
+    <dimen name="custom_toolbar_height">72dp</dimen>
+    <dimen name="custom_toolbar_title_height">28dp</dimen>
+    <dimen name="custom_toolbar_mirror_height">44dp</dimen>
+</resources>

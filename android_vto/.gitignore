@@ -1,0 +1,10 @@
+.gradle/
+.idea/
+build/
+distribution/
+images/
+opencv/
+*.ort
+local.properties
+settings.gradle
+app/build.gradle
