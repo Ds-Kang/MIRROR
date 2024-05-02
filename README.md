@@ -5,7 +5,7 @@ Official code for "MIRROR: Towards Generalizable On-Device Video Virtual Try-On 
 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3631420)
 
 <div align="center">
-  <img src="images/mirror.png" width="500"><br><br>
+  <img src="images/mirror.png" width="750"><br><br>
 </div>
 
 # License
