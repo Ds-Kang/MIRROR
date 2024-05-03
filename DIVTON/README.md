@@ -5,7 +5,7 @@
 
 ## Environment
 ```
-conda create -n vto python=3.8
+conda create -n vto python=3.7
 
 conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
 pip install cupy-cuda113
@@ -45,6 +45,8 @@ conda install cmake
 git clone --depth 1 --branch v1.10.0 https://github.com/microsoft/onnxruntime.git
 
 python ./tools/ci_build/build.py --build_dir ./build/Windows --config RelWithDebInfo --use_nnapi --build_shared_lib --build_wheel --parallel --skip_test
+
+pip install -U .\build\Windows\RelWithDebInfo\RelWithDebInfo\dist\onnxruntime-1.10.0-cp37-cp37m-win_amd64.whl
 ```
 
 5. Convert onnx checkpoints to ort.
